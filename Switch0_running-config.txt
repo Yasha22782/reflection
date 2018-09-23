@@ -10,7 +10,6 @@ enable secret 5 $1$mERr$5jbOD5lHVUWxAAsNOD6eO/
 enable password 7 0824424F0B1500
 !
 !
-new line 
 !
 no ip domain-lookup
 ip domain-name domain
